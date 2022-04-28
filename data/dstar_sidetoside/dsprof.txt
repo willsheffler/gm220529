@@ -1,0 +1,5 @@
+Times(name=Timer, order=longest, summary=sum):
+     trythis score 20219.82560
+    try_this_begin  925.12938
+      try_this_end   83.23812
+           trythis   30.99299

@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"path": "/home/sheffler/Documents/GM220429"
+		}
+	],
+
+		"build_systems":
+	[
+		{
+			"name": "util_runtests.py",
+			"shell_cmd": "cd $folder; CC='ccache gcc' PYTHONPATH=. python ide/runtests.py $file &> sublime_build.log"
+		}
+
+
+
+	]
+
+}

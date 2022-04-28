@@ -1,0 +1,1932 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hno",
+				"hnormalized"
+			],
+			[
+				"c",
+				"cagesym"
+			],
+			[
+				"iface",
+				"iface_rel_xforms"
+			],
+			[
+				"ori",
+				"origdiff"
+			],
+			[
+				"o",
+				"origdiff"
+			],
+			[
+				"conta",
+				"contact_count"
+			],
+			[
+				"two",
+				"twofolddiff"
+			],
+			[
+				"from",
+				"fromifacecen"
+			],
+			[
+				"iface_",
+				"iface_rel_xforms"
+			],
+			[
+				"cap",
+				"cap_xform"
+			],
+			[
+				"nbrs",
+				"nbrsint"
+			],
+			[
+				"Sub",
+				"SubtreeObjs"
+			],
+			[
+				"dump_p",
+				"dump_pdb_from_bodies"
+			],
+			[
+				"ca",
+				"caporigin"
+			],
+			[
+				"sord",
+				"sort_ncac_coords"
+			],
+			[
+				"ne",
+				"nextres"
+			],
+			[
+				"nb",
+				"nbrs_internal"
+			],
+			[
+				"org",
+				"origdiff"
+			],
+			[
+				"orig",
+				"origframes"
+			],
+			[
+				"ifa",
+				"iface_rel_xforms"
+			],
+			[
+				"chc",
+				"checkpoint"
+			],
+			[
+				"Not",
+				"NotImplementedError"
+			],
+			[
+				"if",
+				"iface_positions"
+			],
+			[
+				"conn",
+				"connsphere"
+			],
+			[
+				"show",
+				"showconnectionsize"
+			],
+			[
+				"del",
+				"delprev"
+			],
+			[
+				"coor",
+				"coord1"
+			],
+			[
+				"rand",
+				"rand_xform_small"
+			],
+			[
+				"cont",
+				"contact_dist"
+			],
+			[
+				"cart",
+				"cart_sd"
+			],
+			[
+				"rots",
+				"rot_sd"
+			],
+			[
+				"ifac",
+				"iface_xforms"
+			],
+			[
+				"test_dea",
+				"test_deathstar_mc"
+			],
+			[
+				"radius_m",
+				"radius_xy_max"
+			],
+			[
+				"ifaec",
+				"iface_xforms"
+			],
+			[
+				"asym",
+				"asymframes"
+			],
+			[
+				"1",
+				"1e-6"
+			],
+			[
+				"sort",
+				"sort_frames_z"
+			],
+			[
+				"nbsym",
+				"nbsymcom2"
+			],
+			[
+				"copy",
+				"copy_with_sym"
+			],
+			[
+				"copy_",
+				"copy_with_sym"
+			],
+			[
+				"cache",
+				"cache_fname"
+			],
+			[
+				"brea",
+				"breaks_groups"
+			],
+			[
+				"break",
+				"breaks_groups"
+			],
+			[
+				"a",
+				"axis0"
+			],
+			[
+				"_",
+				"_try_to_use_pymol_objs"
+			],
+			[
+				"pymo",
+				"pymol_objs"
+			],
+			[
+				"pym",
+				"pymol_load_Body"
+			],
+			[
+				"init",
+				"init_coords"
+			],
+			[
+				"def",
+				"deferred_import"
+			],
+			[
+				"arg_",
+				"arg_keys"
+			],
+			[
+				"outpu",
+				"output_prefix"
+			],
+			[
+				"test_",
+				"test_result_tarball"
+			],
+			[
+				"ph",
+				"phmaptype1"
+			],
+			[
+				"phm",
+				"phmaptype2"
+			],
+			[
+				"phmap",
+				"phmaptype1"
+			],
+			[
+				"res",
+				"respairscore_from_tarball"
+			],
+			[
+				"pick",
+				"picklefiles"
+			],
+			[
+				"xmap",
+				"xmapfiles"
+			],
+			[
+				"respa",
+				"respairscore_from_tarball"
+			],
+			[
+				"conve",
+				"convert_rpxdata_to_netcdf"
+			],
+			[
+				"conv",
+				"convert_rpx_data"
+			],
+			[
+				"save",
+				"save_xbin"
+			],
+			[
+				"xbin_",
+				"xbin_cart_resl"
+			],
+			[
+				"PH",
+				"PHMap_u8f8"
+			],
+			[
+				"load",
+				"loadxmap"
+			],
+			[
+				"load_",
+				"load_xbin"
+			],
+			[
+				"Xbin",
+				"Xbin_double"
+			],
+			[
+				"testpi",
+				"test_res_pair_score_pickle"
+			],
+			[
+				"tmp",
+				"tempfile"
+			],
+			[
+				"test_body",
+				"test_body_helix_info"
+			],
+			[
+				"new",
+				"new_pts"
+			],
+			[
+				"_zipp",
+				"_zipper2_ires"
+			],
+			[
+				"bv",
+				"bvh_b"
+			],
+			[
+				"pair",
+				"pairsAB"
+			],
+			[
+				"bvh",
+				"bvh_b"
+			],
+			[
+				"b",
+				"bvh_a"
+			],
+			[
+				"extra",
+				"extra_rots"
+			],
+			[
+				"ex",
+				"extra_rots"
+			],
+			[
+				"check",
+				"checkpoint"
+			],
+			[
+				"create_pa",
+				"create_packer_task"
+			],
+			[
+				"al",
+				"allowed_aas"
+			],
+			[
+				"rosett",
+				"rosetta_rots"
+			],
+			[
+				"rseu",
+				"resultrots"
+			],
+			[
+				"ini",
+				"init_onebody_filter"
+			],
+			[
+				"C",
+				"CXX14"
+			],
+			[
+				"rest",
+				"disable_restypes"
+			],
+			[
+				"ALA",
+				"ALAvirtCB"
+			],
+			[
+				"pa",
+				"packer_neighbor_graph"
+			],
+			[
+				"fixed",
+				"fixed_components"
+			],
+			[
+				"fi",
+				"fixed_components"
+			],
+			[
+				"test_cage",
+				"test_cage_hier_fixed0"
+			],
+			[
+				"rosetta",
+				"rosetta_atom_type_index"
+			],
+			[
+				"atom_",
+				"atom_type_index"
+			],
+			[
+				"ros",
+				"_rosetta_atype_to_rpx_atype"
+			],
+			[
+				"earray",
+				"earray_score_2res_pose"
+			],
+			[
+				"c_an",
+				"c_and_h_hat"
+			],
+			[
+				"resi",
+				"residues_allowed_to_be_packed"
+			],
+			[
+				"gly",
+				"gly2score"
+			],
+			[
+				"gy",
+				"gly1score"
+			],
+			[
+				"test_eta",
+				"test_etable_v_rosetta_2res"
+			],
+			[
+				"xform",
+				"xform_pose"
+			],
+			[
+				"at",
+				"at1"
+			],
+			[
+				"ch",
+				"ch3_hap"
+			],
+			[
+				"earr",
+				"earray_d2resl"
+			],
+			[
+				"g",
+				"glyscore"
+			],
+			[
+				"Sco",
+				"ScoreType"
+			],
+			[
+				"rsetta",
+				"rosetta_score"
+			],
+			[
+				"test",
+				"test_etable_v_rosetta_2res"
+			],
+			[
+				"d2",
+				"d2resl"
+			],
+			[
+				"clust",
+				"clustid"
+			],
+			[
+				"__set",
+				"__setattr__"
+			],
+			[
+				"get",
+				"__getattr__"
+			],
+			[
+				"expan",
+				"expand_xforms_func"
+			],
+			[
+				"random",
+				"random_device"
+			],
+			[
+				"py",
+				"xform_py_to_X3"
+			],
+			[
+				"expand",
+				"expand_xforms_rand"
+			],
+			[
+				"eigen",
+				"xform_eigen_to_py"
+			],
+			[
+				"frames",
+				"frames_uniq"
+			],
+			[
+				"uni",
+				"unique_frames"
+			],
+			[
+				"expand_",
+				"expand_xforms_func"
+			],
+			[
+				"radius",
+				"radius_mult"
+			],
+			[
+				"e",
+				"expand_xforms_rand"
+			],
+			[
+				"exp",
+				"expand_xforms"
+			],
+			[
+				"uniq",
+				"unique"
+			],
+			[
+				"cen",
+				"cen0"
+			],
+			[
+				"rad",
+				"radius_intermediate_mult"
+			],
+			[
+				"test_ex",
+				"test_expand_xforms_rand"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": " \n ",
+			"settings":
+			{
+				"buffer_size": 3,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAADAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cnac",
+				"Build: Cancel"
+			],
+			[
+				"canc",
+				"Build: Cancel"
+			],
+			[
+				"cacn",
+				"Build: Cancel"
+			],
+			[
+				"cnc",
+				"ColorSchemeSelector: Next Color Scheme"
+			],
+			[
+				"orikey",
+				"Preferences: Origami Key Bindings"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"zoo",
+				"Origami: Zoom/Unzoom Current Pane (Toggle Zoom)"
+			],
+			[
+				"cac",
+				"Build: Cancel"
+			],
+			[
+				"can",
+				"Build: Cancel"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"calc",
+				"Convert Case: Lower Case"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"caec",
+				"Convert Case: Lower Case"
+			],
+			[
+				"cec",
+				"Colored Comments: Clear Colorization"
+			],
+			[
+				"cancl",
+				"Build: Cancel"
+			],
+			[
+				"dest",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"saveas",
+				"Project: Save As"
+			],
+			[
+				"toggle",
+				"View: Toggle Menu"
+			],
+			[
+				" canc",
+				"Build: Cancel"
+			],
+			[
+				"cance",
+				"Build: Cancel"
+			],
+			[
+				"cacc",
+				"Convert Case: Swap Case"
+			],
+			[
+				"synfi",
+				"Set Syntax: Fish"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"craele",
+				"Origami: Create Pane on the Left"
+			],
+			[
+				"des",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"crele",
+				"Origami: Create Pane on the Left"
+			],
+			[
+				"crae",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"sypy",
+				"Set Syntax: Python"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"d",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"ky",
+				"Preferences: Key Bindings"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"destr",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"color ",
+				"UI: Select Color Scheme"
+			],
+			[
+				"syntax imp",
+				"Set Syntax: PythonImproved"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"create",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"crea",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"desp",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"sort li",
+				"Sort Lines"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"n",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"togg",
+				"View: Toggle Menu"
+			],
+			[
+				"despr",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"createp",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"UI",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"inspa",
+				"Package Control: Install Package"
+			],
+			[
+				"creat",
+				"Origami: Create Pane on the Left"
+			],
+			[
+				"destroy",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"creapa",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"me",
+				"View: Toggle Menu"
+			],
+			[
+				"creape",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"craeri",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"creari",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"creapari",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"sav",
+				"File: Save All"
+			],
+			[
+				"creapanbel",
+				"Origami: Create Pane with File Below"
+			],
+			[
+				"craet",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"crepare",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"cre",
+				"Origami: Create Pane with File Below"
+			],
+			[
+				"desrpanle",
+				"Origami: Destroy Pane on the Left"
+			],
+			[
+				"despale",
+				"Origami: Destroy Pane on the Left"
+			],
+			[
+				"bui",
+				"Build: New Build System"
+			],
+			[
+				"createpale",
+				"Origami: Create Pane on the Left"
+			],
+			[
+				"despri",
+				"Origami: Destroy Pane on the Right"
+			],
+			[
+				"edi",
+				"Project: Edit Project"
+			],
+			[
+				"pro",
+				"Project: Edit Project"
+			],
+			[
+				"cer",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"inse",
+				"Insert Nums"
+			],
+			[
+				"ins",
+				"Insert Nums"
+			],
+			[
+				"cancel",
+				"Build: Cancel"
+			],
+			[
+				"cerpari",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"blackon",
+				"Sublack: Toggle black on save for current view"
+			],
+			[
+				"subblac",
+				"Sublack: Toggle black on save for current view"
+			],
+			[
+				"paneri",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"crepane",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"cerarig",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"creatp",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"disab",
+				"GitGutter: Disable for View"
+			],
+			[
+				"doc",
+				"AutoDocstring: Current"
+			],
+			[
+				"destroy curr",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"ar",
+				"Arithmetic"
+			],
+			[
+				"arith",
+				"Arithmetic"
+			],
+			[
+				"docstr",
+				"AutoDocstring: Current"
+			],
+			[
+				"auto",
+				"AutoDocstring: Current"
+			],
+			[
+				"fol",
+				"Fold Python : fold depth 1"
+			],
+			[
+				"autodo",
+				"AutoDocstring: Current"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"removep ",
+				"Package Control: Remove Package"
+			],
+			[
+				"fold all",
+				"Code Folding: Unfold All"
+			],
+			[
+				"s",
+				"Sort Lines"
+			],
+			[
+				"yap",
+				"PyYapf: Format Document"
+			],
+			[
+				"unzoo",
+				"Origami: Unzoom Current Pane"
+			],
+			[
+				"zoom",
+				"Origami: Zoom/Unzoom Current Pane (Toggle Zoom)"
+			],
+			[
+				"unzoom",
+				"Origami: Unzoom Current Pane"
+			],
+			[
+				"origami",
+				"Origami: Zoom Current Pane"
+			],
+			[
+				"prefer",
+				"Preferences: Key Bindings"
+			],
+			[
+				"projec",
+				"Project: Edit Project"
+			],
+			[
+				"oricreri",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"to",
+				"View: Toggle Menu"
+			],
+			[
+				"unf",
+				"Code Folding: Unfold All"
+			],
+			[
+				"fold ",
+				"Preferences: Fold Python Settings"
+			],
+			[
+				"fold al",
+				"Code Folding: Unfold All"
+			],
+			[
+				"f",
+				"Fold Python : fold depth 1"
+			],
+			[
+				"pre",
+				"Preferences: Settings"
+			],
+			[
+				"de",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"pep",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"form",
+				"Clang Format: Format Selection"
+			],
+			[
+				"destry",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"anaconda",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"format",
+				"Anaconda: Autoformat PEP8 Errors"
+			]
+		],
+		"width": 488.0
+	},
+	"console":
+	{
+		"height": 597.0,
+		"history":
+		[
+			"os.environ['PATH']",
+			"print(sys.version)",
+			"import os",
+			"print(sys.path)",
+			"print(sys.executable)",
+			"import sys",
+			"os.environ['PATH']",
+			"import os",
+			"sys.path",
+			"import sys",
+			"print(os.environ['PATH'])",
+			"import os",
+			"print(os.environ['PATH'])",
+			"import os",
+			"print(os.environ['PATH'])",
+			"import os",
+			"print(sys.executable)",
+			"print sys.executable",
+			"import sys"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/sheffler/Documents/GM220429"
+	],
+	"file_history":
+	[
+		"/home/sheffler/src/rpxdock/rundtest.sh",
+		"/home/sheffler/src/rpxdock/sublime_build.log",
+		"/home/sheffler/src/rpxdock/tmp",
+		"/home/sheffler/src/rpxdock/ide/runtests.py",
+		"/home/sheffler/src/rpxdock/rpxdock/data/testdata/test_cage_hier_no_trim.result.txz",
+		"/home/sheffler/src/rpxdock/rpxdock/sampling/xform_hierarchy.hpp",
+		"/home/sheffler/src/rpxdock/rpxdock/sampling/xform_hierarchy.cpp",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/search/test_asym.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/viz/test_body_viz.py",
+		"/home/sheffler/src/rpxdock/rpxdock/score/rpxhier.py",
+		"/home/sheffler/src/rpxdock/rpxdock/xbin/xbin_util.cpp",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/bvh/test_bvh.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/test_homog.py",
+		"/home/sheffler/src/rpxdock/dstest.pdb",
+		"/home/sheffler/debug/deathstar/cage_examples/I3_AK/I3ak_orig.pdb",
+		"/home/sheffler/debug/deathstar/cage_examples/I3_AK/I3ak_plusone.pdb",
+		"/home/sheffler/debug/deathstar/cage_examples/I3_AK/I3ak_plusone_center.pdb",
+		"/home/sheffler/debug/deathstar/cage_examples/I3_AK/I3ak_plusone_center_fix.pdb",
+		"/home/sheffler/debug/deathstar/cage_examples/I3_AK/I3ak_plusone_center_fix_body.pdb",
+		"/home/sheffler/src/rpxdock/test.pdb",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/score/test_rpxhier.py",
+		"/home/sheffler/src/rpxdock/rpxdock/rosetta/triggers_init.py",
+		"/home/sheffler/src/rpxdock/rpxdock/viz/deathstar_viz.py",
+		"/home/sheffler/src/rpxdock/rpxdock/motif/motif_io.py",
+		"/home/sheffler/src/rpxdock/rpxdock/motif/__init__.py",
+		"/home/sheffler/src/rpxdock/rpxdock/app/util/convert_rpxdata_to_portable_format.py",
+		"/home/sheffler/src/rpxdock/rpxdock/util/util.py",
+		"/home/sheffler/src/rpxdock/rpxdock/util/bunch.py",
+		"/home/sheffler/src/rpxdock/rpxdock/util/__init__.py",
+		"/home/sheffler/debug/deathstar/tmp.pdb",
+		"/home/sheffler/debug/deathstar/test.pdb",
+		"/home/sheffler/debug/deathstar/tmp1.txt",
+		"/home/sheffler/debug/deathstar/tmp.py",
+		"/home/sheffler/debug/deathstar/tmp2.txt",
+		"/home/sheffler/src/rpxdock/rpxdock/util/cache.py",
+		"/home/sheffler/src/rpxdock/rpxdock/ds/__init__.py",
+		"/home/sheffler/.pymolrc",
+		"/home/sheffler/src/rpxdock/rpxdock/body/__init__.py",
+		"/home/sheffler/src/rpxdock/rpxdock/motif/frames.py",
+		"/home/sheffler/src/rpxdock/rpxdock/body/body.py",
+		"/home/sheffler/src/rpxdock/rpxdock/viz/body_viz.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/motif/test_pairscore.py",
+		"/home/sheffler/src/rpxdock/rpxdock/search/multicomp.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/search/test_onecomp.py",
+		"/home/sheffler/src/rpxdock/rpxdock/__init__.py",
+		"/home/sheffler/src/willutil/willutil/viz/pymol_pose.py",
+		"/home/sheffler/src/rpxdock/rpxdock/viz/__init__.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/body/test_body_viz.py",
+		"/home/sheffler/src/rpxdock/rpxdock/body/body_viz.py",
+		"/home/sheffler/src/rpxdock/rpxdock/util/plot.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/util/test_plot.py",
+		"/home/sheffler/src/rpxdock/rpxdock/data/__init__.py",
+		"/home/sheffler/src/rpxdock/rpxdock/motif/pairdat.py",
+		"/home/sheffler/src/rpxdock/rpxdock/data/data.py",
+		"/home/sheffler/src/rpxdock/rpxdock/rosetta/__init__.py",
+		"/home/sheffler/src/rpxdock/rpxdock/rotamer/rosetta_rots.py",
+		"/home/sheffler/src/rpxdock/rpxdock/search/result.py",
+		"/home/sheffler/src/rpxdock/rpxdock/search/__init__.py",
+		"/home/sheffler/src/rpxdock/rpxdock/search/helix.py",
+		"/home/sheffler/src/rpxdock/rpxdock/search/asym.py",
+		"/home/sheffler/src/rpxdock/rpxdock/search/plug.py",
+		"/home/sheffler/src/rpxdock/rpxdock/search/onecomp.py",
+		"/home/sheffler/src/rpxdock/rpxdock/extern/parallel_hashmap/meminfo.h",
+		"/home/sheffler/src/rpxdock/rpxdock/search/cyclic.py",
+		"/home/sheffler/src/rpxdock/rpxdock/search/basic.py",
+		"/home/sheffler/src/rpxdock/rpxdock/motif/pairscore.py",
+		"/home/sheffler/src/rpxdock/rpxdock/rotamer/rotamer.py",
+		"/home/sheffler/src/rpxdock/rpxdock/rotamer/richardson.py",
+		"/home/sheffler/src/rpxdock/rpxdock/rotamer/__init__.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/motif/test_pairdat.py",
+		"/home/sheffler/src/rpxdock/rpxdock/app/genrate_motif_scores.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/util/test_cache.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/util/test_bunch.py",
+		"/home/sheffler/src/willutil/willutil/bunch.py",
+		"/home/sheffler/src/willutil/willutil/__init__.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/util/test_timer.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/search/test_helix.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/fragments/test_ball_joint.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/geom/test_expand_xforms.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/app/test_options.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/search/test_gridslide.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/sampling/test_orientations.py",
+		"/home/sheffler/src/rpxdock/rpxdock/sampling/xform_hier.py",
+		"/home/sheffler/src/rpxdock/rpxdock/rotamer/etable.py",
+		"/home/sheffler/src/rpxdock/rpxdock/fragments/ball_joint_build_db.py",
+		"/home/sheffler/src/rpxdock/rpxdock/ds/deathstar.py",
+		"/home/sheffler/src/rpxdock/rpxdock/pack/pack.py",
+		"/home/sheffler/src/rpxdock/rpxdock/app/pilot/plug_pilot.py",
+		"/home/sheffler/src/rpxdock/ide/compile_file.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/score/test_body_pair_eval.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/search/test_hierarchical.py",
+		"/home/sheffler/src/rpxdock/rpxdock/sampling/orientations.py",
+		"/home/sheffler/src/rpxdock/rpxdock/sampling/compound.py",
+		"/home/sheffler/src/rpxdock/rpxdock/app/pilot/helix_beta.py",
+		"/home/sheffler/src/rpxdock/tools/shelves.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/rosetta/test_rosetta_util.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/rotamer/test_rosetta_rots.py",
+		"/home/sheffler/src/rpxdock/rpxdock/search/hierarchical.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/search/test_cyclic.py",
+		"/home/sheffler/src/rpxdock/rpxdock/geom/sym.py",
+		"/home/sheffler/src/rpxdock/rpxdock/rosetta/rosetta_util.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/search/test_plug.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/pack/test_pack.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/util/test_util.py",
+		"/home/sheffler/src/rpxdock/rpxdock/filter/redundancy.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/search/test_multicomp.py",
+		"/home/sheffler/src/rpxdock/rpxdock/app/options.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/search/test_deathstar.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/conftest.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/search/test_result.py",
+		"/home/sheffler/src/rpxdock/rpxdock/search/dockspec.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/rotamer/test_etable.py",
+		"/home/sheffler/src/rpxdock/rpxdock/homog.py",
+		"/home/sheffler/src/rpxdock/rpxdock/motif/rpxgen.py",
+		"/home/sheffler/src/rpxdock/rpxdock/fragments/extract_fragments.py",
+		"/home/sheffler/src/rpxdock/rpxdock/app/rpx_score.py",
+		"/home/sheffler/src/rpxdock/rpxdock/app/dock.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/phmap/test_phmap.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/xbin/test_xbin_util.py",
+		"/home/sheffler/src/rpxdock/rpxdock/xbin/xbin.hpp",
+		"/home/sheffler/src/rpxdock/rpxdock/xbin/xbin.cpp",
+		"/home/sheffler/src/rpxdock/rpxdock/phmap/phmap.cpp",
+		"/home/sheffler/src/rpxdock/rpxdock/asym",
+		"/home/sheffler/src/rpxdock/rpxdock/deathstar/__init__.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/deathstar/test_deathstar.py",
+		"/home/sheffler/src/rpxdock/rpxdock/deathstar/deathstar.py",
+		"/home/sheffler/src/rpxdock/rpxdock/dof/__init__.py",
+		"/home/sheffler/src/rpxdock/rpxdock/tests/sampling/test_dofs.py"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 213.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": false,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"lsp_uri": "buffer://sublime/444",
+							"sublime_recent_sort_is_transient": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 224.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 146.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "test_deathstar",
+	"project": "gm220429.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"body",
+				"rpxdock/viz/body_viz.py"
+			],
+			[
+				"sub",
+				"sublime_build.log"
+			],
+			[
+				"runte",
+				"ide/runtests.py"
+			],
+			[
+				"deathst",
+				"rpxdock/viz/deathstar_viz.py"
+			],
+			[
+				"test_cen",
+				"rpxdock/data/testdata/test_cage_hier_no_trim.result.txz"
+			],
+			[
+				"dstar",
+				"rpxdock/tests/ds/test_deathstar.py"
+			],
+			[
+				"test_homo",
+				"rpxdock/tests/test_homog.py"
+			],
+			[
+				"test_bvh",
+				"rpxdock/tests/bvh/test_bvh.py"
+			],
+			[
+				"xfo",
+				"rpxdock/sampling/xform_hierarchy.cpp"
+			],
+			[
+				"pybin",
+				"rpxdock/util/pybind_types.hpp"
+			],
+			[
+				"bvh.",
+				"rpxdock/bvh/bvh.hpp"
+			],
+			[
+				"envi",
+				"environment.yml"
+			],
+			[
+				"setu",
+				"setup.py"
+			],
+			[
+				"testasym",
+				"rpxdock/tests/search/test_asym.py"
+			],
+			[
+				"xformhi",
+				"rpxdock/sampling/xform_hierarchy.cpp"
+			],
+			[
+				"motifio",
+				"rpxdock/motif/motif_io.py"
+			],
+			[
+				"crea",
+				"rpxdock/app/util/convert_rpxdata_to_portable_format.py"
+			],
+			[
+				"pairda",
+				"rpxdock/motif/pairdat.py"
+			],
+			[
+				"respair",
+				"rpxdock/tests/motif/test_pairdat.py"
+			],
+			[
+				"test_asym",
+				"rpxdock/tests/search/test_asym.py"
+			],
+			[
+				"search",
+				"rpxdock/search/hierarchical.py"
+			],
+			[
+				"asym",
+				"rpxdock/search/asym.py"
+			],
+			[
+				"trigg",
+				"rpxdock/rosetta/triggers_init.py"
+			],
+			[
+				"xforh",
+				"rpxdock/sampling/xform_hierarchy.hpp"
+			],
+			[
+				"xform",
+				"rpxdock/sampling/xform_hierarchy.cpp"
+			],
+			[
+				"dock",
+				"rpxdock/app/dock.py"
+			],
+			[
+				"option",
+				"rpxdock/app/options.py"
+			],
+			[
+				"dstavi",
+				"rpxdock/viz/deathstar_viz.py"
+			],
+			[
+				"deas",
+				"rpxdock/ds/deathstar.py"
+			],
+			[
+				"io_bo",
+				"rpxdock/io/io_body.py"
+			],
+			[
+				"iobo",
+				"rpxdock/io/io_body.py"
+			],
+			[
+				"tripp",
+				"rpxdock/tests/score/test_rpxhier.py"
+			],
+			[
+				"bvh",
+				"rpxdock/bvh/bvh.cpp"
+			],
+			[
+				"deav ",
+				"rpxdock/viz/deathstar_viz.py"
+			],
+			[
+				"bo",
+				"rpxdock/body/body.py"
+			],
+			[
+				"body_vi",
+				"rpxdock/viz/body_viz.py"
+			],
+			[
+				"body.py",
+				"rpxdock/body/body.py"
+			],
+			[
+				"viz",
+				"rpxdock/viz/deathstar_viz.py"
+			],
+			[
+				"dof",
+				"rpxdock/sampling/dofs.py"
+			],
+			[
+				"utilini",
+				"rpxdock/util/__init__.py"
+			],
+			[
+				"util",
+				"rpxdock/util/util.py"
+			],
+			[
+				"motif",
+				"rpxdock/motif/motif_io.py"
+			],
+			[
+				"conver",
+				"rpxdock/app/util/convert_rpxdata_to_portable_format.py"
+			],
+			[
+				"dock.py",
+				"rpxdock/app/dock.py"
+			],
+			[
+				"bvh.hpp",
+				"rpxdock/bvh/bvh.hpp"
+			],
+			[
+				"ini",
+				"rpxdock/__init__.py"
+			],
+			[
+				"test_bo",
+				"rpxdock/tests/viz/test_body_viz.py"
+			],
+			[
+				"vizini",
+				"rpxdock/viz/__init__.py"
+			],
+			[
+				"cache",
+				"rpxdock/util/cache.py"
+			],
+			[
+				"data",
+				"rpxdock/data/data.py"
+			],
+			[
+				"dsinit",
+				"rpxdock/ds/__init__.py"
+			],
+			[
+				"dsini",
+				"rpxdock/ds/__init__.py"
+			],
+			[
+				"test_death",
+				"rpxdock/tests/ds/test_deathstar.py"
+			],
+			[
+				"death",
+				"rpxdock/ds/deathstar.py"
+			],
+			[
+				"body.p",
+				"rpxdock/body/body.py"
+			],
+			[
+				"test_body",
+				"rpxdock/tests/viz/test_body_viz.py"
+			],
+			[
+				"mof",
+				"rpxdock/motif/frames.py"
+			],
+			[
+				"multi",
+				"rpxdock/search/multicomp.py"
+			],
+			[
+				"test_one",
+				"rpxdock/tests/search/test_onecomp.py"
+			],
+			[
+				"test_bovi",
+				"rpxdock/tests/viz/test_body_viz.py"
+			],
+			[
+				"body_",
+				"rpxdock/viz/body_viz.py"
+			],
+			[
+				"bodyini",
+				"rpxdock/body/__init__.py"
+			],
+			[
+				"plot",
+				"rpxdock/util/plot.py"
+			],
+			[
+				"test_plo",
+				"rpxdock/tests/util/test_plot.py"
+			],
+			[
+				"body_v",
+				"rpxdock/body/body_viz.py"
+			],
+			[
+				"rosetta",
+				"rpxdock/rosetta/__init__.py"
+			],
+			[
+				"hel",
+				"rpxdock/search/helix.py"
+			],
+			[
+				"plu",
+				"rpxdock/search/plug.py"
+			],
+			[
+				"onecom",
+				"rpxdock/search/onecomp.py"
+			],
+			[
+				"ome",
+				"rpxdock/extern/parallel_hashmap/meminfo.h"
+			],
+			[
+				"cyc",
+				"rpxdock/search/cyclic.py"
+			],
+			[
+				"result",
+				"rpxdock/search/result.py"
+			],
+			[
+				"basic",
+				"rpxdock/search/basic.py"
+			],
+			[
+				"searchini",
+				"rpxdock/search/__init__.py"
+			],
+			[
+				"pairsc",
+				"rpxdock/motif/pairscore.py"
+			],
+			[
+				"pairdat",
+				"rpxdock/motif/pairdat.py"
+			],
+			[
+				"rich",
+				"rpxdock/rotamer/richardson.py"
+			],
+			[
+				"rotamer",
+				"rpxdock/rotamer/rotamer.py"
+			],
+			[
+				"rotameini",
+				"rpxdock/rotamer/__init__.py"
+			],
+			[
+				"fra",
+				"rpxdock/motif/frames.py"
+			],
+			[
+				"motifii",
+				"rpxdock/motif/__init__.py"
+			],
+			[
+				"data.py",
+				"rpxdock/data/data.py"
+			],
+			[
+				"dataini",
+				"rpxdock/data/__init__.py"
+			],
+			[
+				"test_bun",
+				"rpxdock/tests/util/test_bunch.py"
+			],
+			[
+				"test_cac",
+				"rpxdock/tests/util/test_cache.py"
+			],
+			[
+				"bunh",
+				"rpxdock/util/bunch.py"
+			],
+			[
+				"__ini",
+				"rpxdock/__init__.py"
+			],
+			[
+				"plug",
+				"rpxdock/search/plug.py"
+			],
+			[
+				"opti",
+				"rpxdock/app/options.py"
+			],
+			[
+				"optin",
+				"rpxdock/app/options.py"
+			],
+			[
+				"mul",
+				"rpxdock/tests/search/test_multicomp.py"
+			],
+			[
+				"rpxhier",
+				"rpxdock/score/rpxhier.py"
+			],
+			[
+				"test_ply",
+				"rpxdock/tests/search/test_plug.py"
+			],
+			[
+				"rosetrot",
+				"rpxdock/rotamer/rosetta_rots.py"
+			],
+			[
+				"rund",
+				"rpxdock/filter/redundancy.py"
+			],
+			[
+				"cycli",
+				"rpxdock/search/cyclic.py"
+			],
+			[
+				"test_cyc",
+				"rpxdock/tests/search/test_cyclic.py"
+			],
+			[
+				"hie",
+				"rpxdock/search/hierarchical.py"
+			],
+			[
+				"test_mul",
+				"rpxdock/tests/search/test_multicomp.py"
+			],
+			[
+				"options",
+				"rpxdock/app/options.py"
+			],
+			[
+				"sym.py",
+				"rpxdock/geom/sym.py"
+			],
+			[
+				"roseu",
+				"rpxdock/rosetta/rosetta_util.py"
+			],
+			[
+				"test_rose",
+				"rpxdock/tests/rosetta/test_rosetta_util.py"
+			],
+			[
+				"test_plu",
+				"rpxdock/tests/search/test_plug.py"
+			],
+			[
+				"test_util",
+				"rpxdock/tests/util/test_util.py"
+			],
+			[
+				"test_tim",
+				"rpxdock/tests/util/test_timer.py"
+			],
+			[
+				"test_pairs",
+				"rpxdock/tests/motif/test_pairscore.py"
+			],
+			[
+				"rpxhi",
+				"rpxdock/score/rpxhier.py"
+			],
+			[
+				"oneco",
+				"rpxdock/search/onecomp.py"
+			],
+			[
+				"test_hel",
+				"rpxdock/tests/search/test_helix.py"
+			],
+			[
+				"homog",
+				"rpxdock/homog.py"
+			],
+			[
+				"test_etab",
+				"rpxdock/tests/rotamer/test_etable.py"
+			],
+			[
+				"rosettaro",
+				"rpxdock/rotamer/rosetta_rots.py"
+			],
+			[
+				"docspe",
+				"rpxdock/search/dockspec.py"
+			],
+			[
+				"docksp",
+				"rpxdock/search/dockspec.py"
+			],
+			[
+				"pairscor",
+				"rpxdock/motif/pairscore.py"
+			],
+			[
+				"test_pairsc",
+				"rpxdock/tests/motif/test_pairscore.py"
+			],
+			[
+				"test_res",
+				"rpxdock/tests/search/test_result.py"
+			],
+			[
+				"conftest",
+				"rpxdock/tests/conftest.py"
+			],
+			[
+				"test_rpx",
+				"rpxdock/tests/score/test_rpxhier.py"
+			],
+			[
+				"conv",
+				"rpxdock/app/util/convert_rpxdata_to_portable_format.py"
+			],
+			[
+				"rpxh",
+				"rpxdock/score/rpxhier.py"
+			],
+			[
+				"conf",
+				"rpxdock/tests/conftest.py"
+			],
+			[
+				" onv",
+				"rpxdock/app/util/convert_rpxdata_to_portable_format.py"
+			],
+			[
+				"xbin.hpp",
+				"rpxdock/xbin/xbin.hpp"
+			],
+			[
+				"xbin.",
+				"rpxdock/xbin/xbin.cpp"
+			],
+			[
+				"util.",
+				"rpxdock/util/util.py"
+			],
+			[
+				"xbin.cpp",
+				"rpxdock/xbin/xbin.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
